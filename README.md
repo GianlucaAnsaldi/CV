@@ -1,7 +1,9 @@
-## Your Name
+## Gianluca Ansaldi
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+
+<!-- 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -74,4 +76,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Any cool stuff that makes you a super part of a software development team -->
